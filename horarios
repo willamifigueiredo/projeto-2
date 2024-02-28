@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Achadinhos que agente adora</title>
+</head>
+<body>
+    <div class="wrapper">
+        <nav class="menu">
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about_us.html">Sobre Nós</a></li>
+                <li><a href="horarios.html">Horários de atendimento</a></li>
+                <li><a href="contatos.html">Contatos</a></li>
+            </ul>
+        </nav>
+    </div>
+
+    <div class="main">
+        <div class="header">
+            <img src="img/projeto-piolto-demonstracao.webp" alt="">
+        </div>
+
+        <div class="content">
+            <table class="horarios">
+                <caption><h1>Horários de Atendimento</h1></caption>
+                <tr>
+                    <th>Dia</th>
+                    <th>Hora</th>
+                </tr>
+                <tr>
+                    <td>Segunda</td>
+                    <td>10:00 às 17:00</td>
+                </tr>
+                <tr>
+                    <td>Terça</td>
+                    <td>10:00 às 17:00</td>
+                </tr>
+                <tr>
+                    <td>Quarta</td>
+                    <td>10:00 às 17:00</td>
+                </tr>
+                <tr>
+                    <td>Quinta</td>
+                    <td>10:00 às 17:00</td>
+                </tr>
+                <tr>
+                    <td>Sexta</td>
+                    <td>10:00 às 16:00</td>
+                </tr>
+            </table>
+        </div>
+
+        <div class="footer">
+            <i>Desenvolvido por Willami Figueiredo | <abbr title="Digital Innovation One">DIO</abbr> 2023</i>
+        </div>
+   
+</body>
+
+</html>
